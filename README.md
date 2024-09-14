@@ -32,7 +32,7 @@ Project Structure
 
 Getting Started
 
-1. Clone the repository: `git clone (link unavailable)
+1. Clone the repository: `git clone https://github.com/arpitrawat0007/Calculator.git
 2. Open the project in Android Studio
 3. Build and run the application on an emulator or physical device
 
